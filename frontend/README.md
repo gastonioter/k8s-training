@@ -1,1 +1,1 @@
-# React SPA
+# React + TypeScript SPA
