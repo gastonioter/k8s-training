@@ -1,8 +1,8 @@
-# Kubernetes training repository for a Multi-Tenancy Notes App
+# Kubernetes training repository for a "Multi-Tenancy" App
 
 ## What is the applicatoin about?
 
-### This consists of a SPA for the frontend and a backend. The backend is connected with a MongoDB for the persistence layer. The backend is exposing a RESP API with basic endpoints to query and create Notes. The frontend implements features to list those notes and create new ones.
+### This consists of a SPA for the frontend and a backend. The backend is connected with a MongoDB for the persistence layer. The backend is exposing a RESP API with basic endpoints to retrieve songs. The frontend implements features to list those songs.
 
 ## Goal of the training:
 
